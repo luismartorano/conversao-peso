@@ -47,6 +47,9 @@ docker container rm -f <nome do container>
 ### Referências
 
 https://docs.microsoft.com/pt-br/dotnet/core/docker/build-container?tabs=linux
+
 https://github.com/dotnet/dotnet-docker/issues/1939
+
+https://codefresh.io/docker-tutorial/docker-images-net-core/
 
 
