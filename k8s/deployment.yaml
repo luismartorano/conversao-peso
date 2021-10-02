@@ -26,7 +26,7 @@ spec:
   selector: 
     app: conversaopeso
   ports:
-    - port: 81 #mesma porta q está em cluster.yaml esta eu alterei para 80
+    - port: 80 #mesma porta q está em cluster.yaml esta eu alterei para 80
       targetPort: 5000
       nodePort: 30001
   type: LoadBalancer
