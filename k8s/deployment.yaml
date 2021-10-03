@@ -32,4 +32,5 @@ spec:
       name: http
       #nodePort: 30001
   type: LoadBalancer
+  
 

@@ -7,7 +7,7 @@ nodes:
   - role: worker
   - role: worker
   - role: worker
-    extraPortMappings:
-    - containerPort: 30000
-      hostPort: 80
+    #extraPortMappings:
+    #- containerPort: 30000
+    #  hostPort: 80
       
