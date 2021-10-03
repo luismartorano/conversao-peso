@@ -27,10 +27,10 @@ spec:
     app: conversaopeso
   ports:
     - port: 80
-      targetPort: 8001
       protocol: TCP
       name: http
       #nodePort: 30001
   type: LoadBalancer
-  
+
+
 
